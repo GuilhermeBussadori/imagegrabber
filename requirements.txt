@@ -1,0 +1,7 @@
+cryptography 
+discord
+httpx
+requests
+pypiwin32
+alive-progress
+pycryptodome
